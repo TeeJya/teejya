@@ -19,7 +19,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teejya&layout=compact&theme=tokyonight)](https://github.com/teejya/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=teejya&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=teejya&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <h1>Technologies</h1>
